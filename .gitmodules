@@ -1,0 +1,3 @@
+[submodule "Go-building-a-blockchain-in-golang"]
+	path = Go-building-a-blockchain-in-golang
+	url = git@github.com:iskanderandrews/Go-building-a-blockchain-in-golang.git
