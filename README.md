@@ -1,2 +1,2 @@
-# build-your-own-blockchain-crytpocurrency
+# Build your own Blockchain / Crytpocurrency
 Build your own Blockchain / Cryptocurrency
